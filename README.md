@@ -1,1 +1,2 @@
-# Project-40
+# SHIN CHAN GAME
+Shin Chan Game
